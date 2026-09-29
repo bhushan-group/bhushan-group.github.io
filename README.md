@@ -19,6 +19,23 @@ Open any file on github.com, click the pencil icon, make the change, and click *
 
 To let students edit, add them to the organization (**People → Invite member**).
 
+## Lab news
+
+News lives in one file, `data/news.json`. The homepage shows the three newest items and the News page shows them all, grouped by year. The order inside the file doesn't matter; the site sorts by date.
+
+**With a form (recommended).** Pages CMS turns the news file into a simple form.
+
+1. Go to https://app.pagescms.org and sign in with GitHub.
+2. Install the Pages CMS GitHub App on the `bhushan-group` organization and give it access to the `bhushan-group.github.io` repository.
+3. Open the repository and choose **Lab news**. Add an item, fill in the date, headline, details and link, and save. The site updates within a couple of minutes.
+4. To let students post news without a GitHub account, invite them as collaborators by email from Pages CMS.
+
+The form is defined in `.pages.yml` at the top of the repository. Files whose names start with a dot are hidden on Macs and can be skipped when you drag a folder into GitHub. If `.pages.yml` is missing from the repository, create it on GitHub with **Add file → Create new file**, name it `.pages.yml`, and paste in the contents of the copy in this folder.
+
+**By hand.** Open `data/news.json` on GitHub, click the pencil, and copy an existing entry from `{` to `}`. Entries are separated by commas, with no comma after the last one. If the news section disappears from the homepage after a save, a missing or extra comma is the usual cause.
+
+Dates are written `2026-09-24`, or `2026-09` or `2026` when the exact day doesn't matter.
+
 ## Common updates
 
 **Add a publication.** In `publications.html`, copy one `<li class="pub"> … </li>` block, paste it at the top of the list, and change the year, title, link, authors and journal. If the paper belongs to a research theme, paste the same block into that theme's "Selected papers" list in `research.html`. To feature it on the homepage, replace one of the three blocks under "Recent publications" in `index.html`.
@@ -41,7 +58,7 @@ For the PI photo, do the same with the `avatar avatar-lg` line.
 
 **Change colors.** At the top of `assets/css/style.css`, `--accent` is the red and `--flow` is the teal.
 
-**Change the navigation or footer.** Each page carries its own copy of the header and footer, so make the same edit in every `.html` file.
+**Change the navigation or footer.** Each page carries its own copy of the header and footer, so make the same edit in every `.html` file, including `news.html`.
 
 ## Custom domain (optional)
 

@@ -265,3 +265,20 @@ h3 { font-size: 20px; font-weight: 600; line-height: 1.25; margin: 0; }
   .site-nav, .skip-link, .join-band .actions { display: none; }
   body { background: #FFFFFF; }
 }
+
+/* Lab news */
+.news-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 40px; }
+.news-cards .news-item { display: flex; flex-direction: column; gap: 10px; padding-top: 18px; border-top: 2px solid var(--ink); }
+.news-cards .news-body { display: flex; flex-direction: column; gap: 8px; }
+@media (max-width: 960px) { .news-cards { grid-template-columns: 1fr; gap: 28px; } }
+.news-date { font-family: var(--sans); font-size: 14px; font-weight: 600; color: var(--flow); }
+.news-title { font-size: 19px; line-height: 1.3; margin: 0; }
+.news-text { margin: 0; font-size: 16px; line-height: 1.6; color: var(--ink-2); max-width: 44em; }
+.news-status { margin: 0; font-size: 16px; color: var(--muted); }
+.news-archive .news-year { font-size: 24px; margin: 48px 0 8px; }
+.news-archive .news-year:first-child { margin-top: 0; }
+.news-list { list-style: none; margin: 0; padding: 0; border-bottom: 1px solid var(--rule); }
+.news-list .news-item { display: grid; grid-template-columns: 150px minmax(0, 1fr); gap: 24px; padding: 24px 0; border-top: 1px solid var(--rule); }
+.news-list .news-date { padding-top: 3px; }
+.news-list .news-body { display: flex; flex-direction: column; gap: 8px; }
+@media (max-width: 640px) { .news-list .news-item { grid-template-columns: 1fr; gap: 4px; } }

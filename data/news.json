@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-09-24",
+    "title": "The lab website has moved",
+    "text": "Our site now lives at bhushan-group.github.io, with current projects, the full publication list and open positions.",
+    "link": "",
+    "link_label": ""
+  },
+  {
+    "date": "2026-06",
+    "title": "Talk at the Digital Futures Workshop",
+    "text": "Abhinav Bhushan presented the lab's work on organ-on-chip models, continuous on-chip biosensing and machine learning.",
+    "link": "",
+    "link_label": ""
+  },
+  {
+    "date": "2026",
+    "title": "New paper on bile salts and E. coli colonization in colorectal cancer organoids",
+    "text": "Ishita Dasgupta and colleagues report how bile salts and bacterial bile salt hydrolase activity influence E. coli colonization and FXR signaling in organoids.",
+    "link": "https://doi.org/10.1007/s10439-026-04226-2",
+    "link_label": "Read the paper"
+  }
+]
