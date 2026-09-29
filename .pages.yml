@@ -1,0 +1,36 @@
+content:
+  - name: news
+    label: Lab news
+    type: file
+    path: data/news.json
+    format: json
+    list: true
+    fields:
+      - name: date
+        label: Date
+        type: string
+        required: true
+        description: "2026-09-24, or 2026-09 when the exact day doesn't matter"
+        pattern:
+          regex: "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
+          message: "Use the form 2026-09-24, 2026-09 or 2026"
+      - name: title
+        label: Headline
+        type: string
+        required: true
+        options:
+          maxlength: 140
+      - name: text
+        label: Details
+        type: text
+        description: One or two sentences. Optional.
+        options:
+          maxlength: 400
+      - name: link
+        label: Link
+        type: string
+        description: Full web address (https://...) for a paper, story or event. Optional.
+      - name: link_label
+        label: Link text
+        type: string
+        description: For example "Read the paper". Leave blank to show "Read more".
