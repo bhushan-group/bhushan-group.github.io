@@ -1,48 +1,57 @@
 # Bhushan Research Group website
 
-Plain HTML and CSS. No build step, no plugins, no cost. It runs on GitHub Pages or any web host.
+Plain HTML and CSS, published free with GitHub Pages at https://bhushan-group.github.io. No build step, no plugins, no cost.
 
-## Put the site online (GitHub Pages)
+## Update the site
 
-1. Sign up for a free account at github.com.
-2. Create a free organization for the lab so the site isn't tied to one person's account: click your profile picture → **Your organizations** → **New organization** → **Free**. Pick a name such as `bhushanlab`.
-3. In the organization, click **New repository**. Name it exactly `bhushanlab.github.io` (your organization name followed by `.github.io`). Set it to **Public**. Leave "Add a README" unchecked. Click **Create repository**.
-4. On the empty repository page, click **uploading an existing file**. On your computer, unzip the download and open the `bhushan-lab-site` folder. Select everything inside it (not the folder itself) and drag it into the browser window. Click **Commit changes**.
-5. Go to **Settings → Pages**. Under **Build and deployment**, set Source to **Deploy from a branch**, Branch to **main**, and folder to **/ (root)**. Click **Save**. For repositories named `<name>.github.io` this is often already set.
-6. After a minute or two the site is live at `https://bhushanlab.github.io`. The Actions tab shows progress if it takes longer.
+Open any file on github.com in the `bhushan-group.github.io` repository, click the pencil icon, make the change, and click **Commit changes**. The live site updates within a couple of minutes.
 
-Then link the new address from your Illinois Tech faculty profile and the department page, and add a "This site has moved" link at the top of the old Google Site.
-
-## Edit the site from the browser
-
-Open any file on github.com, click the pencil icon, make the change, and click **Commit changes**. The live site updates within a couple of minutes.
-
-To let students edit, add them to the organization (**People → Invite member**).
+To replace several files at once, open the repository, click **Add file → Upload files**, drag the files in, and click **Commit changes**. Files with the same name are replaced; everything else is left alone.
 
 ## Lab news
 
-News lives in one file, `data/news.json`. The homepage shows the three newest items and the News page shows them all, grouped by year. The order inside the file doesn't matter; the site sorts by date.
+News lives in one file, `data/news.json`. The homepage shows the eight newest items in a strip visitors can scroll sideways, and the News page shows everything, grouped by year, with buttons to filter by type and jump to a year. The order inside the file doesn't matter; the site sorts by date.
 
-**With a form (recommended).** Pages CMS turns the news file into a simple form.
+Each item has a date, a type (Paper, Talk, Award, People, Grant, Event, Media or Lab), a headline, and optionally a sentence or two, a photo and a link. Items without a photo show a colored icon for their type.
+
+### Post news with the form (recommended)
+
+Pages CMS is a free editor that turns the news file into a form. It saves straight into the repository, so every change is recorded and can be undone.
 
 1. Go to https://app.pagescms.org and sign in with GitHub.
 2. Install the Pages CMS GitHub App on the `bhushan-group` organization and give it access to the `bhushan-group.github.io` repository.
-3. Open the repository and choose **Lab news**. Add an item, fill in the date, headline, details and link, and save. The site updates within a couple of minutes.
-4. To let students post news without a GitHub account, invite them as collaborators by email from Pages CMS.
+3. Open the repository and choose **Lab news**. Click **Add an item**, fill in the fields, switch on **Show on website**, and save.
+
+### Let students post news
+
+1. In Pages CMS, open the repository's **Collaborators** settings and invite each student by email. They don't need a GitHub account.
+2. The student gets an email, signs in, and sees only the **Lab news** form and the news photo folder. They can't change any other part of the site.
+3. New items start with **Show on website** switched off, so a student's post is saved but stays hidden. Read it in the same form, fix anything you like, and switch **Show on website** on. It appears on the site within a couple of minutes.
+4. Every save is recorded in the repository's history under the student's name. To undo one, open **Commits** on GitHub, or simply edit or delete the item in the form.
+
+Ask students to let you know when they've posted, since Pages CMS doesn't send notifications. Remove a collaborator from the same settings page when they leave the lab.
 
 The form is defined in `.pages.yml` at the top of the repository. Files whose names start with a dot are hidden on Macs and can be skipped when you drag a folder into GitHub. If `.pages.yml` is missing from the repository, create it on GitHub with **Add file → Create new file**, name it `.pages.yml`, and paste in the contents of the copy in this folder.
 
-**By hand.** Open `data/news.json` on GitHub, click the pencil, and copy an existing entry from `{` to `}`. Entries are separated by commas, with no comma after the last one. If the news section disappears from the homepage after a save, a missing or extra comma is the usual cause.
+### Edit the news file by hand
 
-Dates are written `2026-09-24`, or `2026-09` or `2026` when the exact day doesn't matter.
+Open `data/news.json` on GitHub, click the pencil, and copy an existing entry from `{` to `}`. Entries are separated by commas, with no comma after the last one. If the news section disappears from the homepage after a save, a missing or extra comma is the usual cause. Items added by hand appear unless they contain `"show": false`.
+
+Dates are written `2026-09-24`, or `2026-09` or `2026` when the exact day doesn't matter. An item with only a year is listed after the dated items of that year. To start a new line inside the text (for a list of talks, say), press Enter in the form or type `\n` when editing the file by hand.
+
+## Photos
+
+Site photos are in `assets/img/photos/`. To swap one, upload a new JPG with exactly the same file name; it replaces the old one everywhere it's used. Landscape images at least 1200 pixels wide look sharpest. News photos uploaded through the form go in `assets/img/news/`.
+
+Only post photos that everyone in them is happy to have online.
 
 ## Common updates
 
-**Add a publication.** In `publications.html`, copy one `<li class="pub"> … </li>` block, paste it at the top of the list, and change the year, title, link, authors and journal. If the paper belongs to a research theme, paste the same block into that theme's "Selected papers" list in `research.html`. To feature it on the homepage, replace one of the three blocks under "Recent publications" in `index.html`.
+**Add a publication.** In `publications.html`, copy one `<li class="pub"> … </li>` block, paste it at the top of the list, and change the year, title, link, authors and journal. If the paper belongs to a research theme, paste the same block into that theme's "Selected papers" list in `research.html`. To feature it on the homepage, replace one of the three blocks under "Recent publications" in `index.html`. Consider posting it as news too.
 
 **Add a person.** In `people.html`, copy one `<article class="person"> … </article>` block into the right group (staff, graduate, undergraduate) and change the initials, name, role and bio. Delete the block when someone leaves.
 
-**Add a photo.** Upload a square JPG (about 400 × 400 pixels) to `assets/img/people/`. In `people.html`, replace that person's initials line
+**Add a headshot.** Upload a square JPG (about 400 × 400 pixels) to `assets/img/people/`. In `people.html`, replace that person's initials line
 
     <span class="avatar avatar-sm" aria-hidden="true">ID</span>
 
@@ -56,9 +65,9 @@ For the PI photo, do the same with the `avatar avatar-lg` line.
 
     <a class="text-link" href="YOUR-SCHOLAR-URL">Google Scholar profile</a>
 
-**Change colors.** At the top of `assets/css/style.css`, `--accent` is the red and `--flow` is the teal.
+**Change colors.** At the top of `assets/css/style.css`: `--deep` is the dark teal of the page headers, `--wine` the Join band, `--teal` and `--scarlet` the accents, and `--tint-teal`, `--tint-rose` and `--tint-sand` the soft card backgrounds.
 
-**Change the navigation or footer.** Each page carries its own copy of the header and footer, so make the same edit in every `.html` file, including `news.html`.
+**Change the navigation or footer.** Each page carries its own copy of the header and footer, so make the same edit in every `.html` file.
 
 ## Custom domain (optional)
 
