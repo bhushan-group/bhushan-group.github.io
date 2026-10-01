@@ -45,6 +45,24 @@ Site photos are in `assets/img/photos/`. To swap one, upload a new JPG with exac
 
 Only post photos that everyone in them is happy to have online.
 
+## Visitor analytics
+
+The site reports to two services, both free and both already set up:
+
+- **Umami Cloud** at cloud.umami.is gives visits, pages, referrers and location down to the city.
+- **Cloudflare Web Analytics** gives visits, pages, referrers and country, as a second opinion.
+
+Neither uses cookies. The two will not agree: each is blocked by a different mix of ad blockers and privacy settings, so treat both as trends rather than exact counts.
+
+The IDs live at the top of `build.py`:
+
+```python
+UMAMI_WEBSITE_ID = "..."
+CF_BEACON_TOKEN = "..."
+```
+
+Emptying either one removes that service's tag from every page on the next build. These IDs are not secrets; they are visible in the page source of any public site that uses them.
+
 ## Common updates
 
 **Add a publication.** In `publications.html`, copy one `<li class="pub"> … </li>` block, paste it at the top of the list, and change the year, title, link, authors and journal. If the paper belongs to a research theme, paste the same block into that theme's "Selected papers" list in `research.html`. To feature it on the homepage, replace one of the three blocks under "Recent publications" in `index.html`. Consider posting it as news too.
