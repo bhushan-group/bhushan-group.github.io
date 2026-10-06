@@ -64,6 +64,14 @@ BIOMIC = [("BIOMIC 2026", "https://..."),
 
 Newest first. The menu appears whenever that list has anything in it, and disappears if it is emptied.
 
+## Search engines
+
+`sitemap.xml` and `robots.txt` are generated on every build, and each page carries a canonical link naming its real address. Nothing needs maintaining; adding a page to the site adds it to the sitemap automatically.
+
+Ownership-verification files, such as the one Google Search Console asks you to upload, go in `build/siteroot`. Everything in that folder is copied to the top level of the site on every build, so it survives re-uploading the site. A verification file placed at the top level by hand would be wiped the next time the files are overwritten, and verification would lapse.
+
+After a big change, submit the sitemap again in Google Search Console at `https://bhushan-group.github.io/sitemap.xml`. That is also where to check which pages Google has actually indexed.
+
 ## Visitor analytics
 
 The site reports to two services, both free and both already set up:
