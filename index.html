@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script>document.documentElement.className += " js";</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Bhushan Research Group | Illinois Tech</title>
 <meta name="description" content="We engineer microphysiological systems and biosensors to understand how living tissue responds to microbes, nutrients and drugs. Biomedical Engineering at Illinois Institute of Technology.">
@@ -32,6 +33,12 @@
 <li><a href="news.html">News</a></li>
 <li><a href="people.html">People</a></li>
 <li><a href="teaching.html">Teaching</a></li>
+<li class="nav-menu">
+<button type="button" class="nav-menu-btn" aria-expanded="false" aria-controls="biomic-menu">BIOMIC<svg width="11" height="7" viewBox="0 0 11 7" aria-hidden="true"><path d="M1 1.5 L5.5 5.5 L10 1.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"></path></svg></button>
+<ul class="nav-menu-list" id="biomic-menu">
+<li><a href="https://sites.google.com/iit.edu/eng-bio-workshop-2024/">BIOMIC 2024</a></li>
+</ul>
+</li>
 <li><a class="nav-cta" href="join.html">Join the lab</a></li>
 </ul>
 </nav>
@@ -52,10 +59,10 @@
 <p class="byline">Led by <a href="people.html">Abhinav Bhushan</a>, Associate Professor of Biomedical Engineering at Illinois Institute of Technology.</p>
 </div>
 <figure class="mosaic">
-<img class="wide" src="assets/img/photos/chip-cross-section.svg" alt="Cross-section of a two-compartment organ-on-chip: tissue in the upper channel, a perfused channel carrying microbes below, and a porous membrane between them">
+<img class="wide" src="assets/img/photos/chip-perspective.svg" alt="A microfluidic organ-on-chip device with fluid in its channels and tubing at each port">
 <img class="tile" src="assets/img/photos/organoids-crc.jpg" alt="Fluorescence image of colorectal cancer organoids">
 <img class="tile" src="assets/img/photos/organoids-ecadherin.jpg" alt="Fluorescence image of organoids">
-<figcaption>A cross-section of the two-compartment chips we build: tissue above, a perfused channel below, a porous membrane between. Alongside, organoids imaged in the lab.</figcaption>
+<figcaption>A microfluidic device of the kind we build, and organoids imaged in the lab.</figcaption>
 </figure>
 </div>
 </section>
@@ -151,7 +158,8 @@
 <div class="pub-body">
 <p class="pub-title"><a href="https://doi.org/10.1007/s10439-026-04226-2">Bile salts and bacterial bile salt hydrolase activity differentially influence <em>Escherichia coli</em> colonization and FXR signaling in colorectal cancer organoids</a></p>
 <p class="pub-authors">Dasgupta I, Brevi A, Ma Y, Rangineni DP, Duran M, Zarrinpar A, <strong>Bhushan A</strong></p>
-<p class="pub-venue"><em>Annals of Biomedical Engineering</em></p>
+<p class="pub-venue"><em>Annals of Biomedical Engineering</em> 2026</p>
+<p class="pub-doi"><a href="https://doi.org/10.1007/s10439-026-04226-2">doi.org/10.1007/s10439-026-04226-2</a></p>
 </div>
 </li>
 <li class="pub">
@@ -159,7 +167,8 @@
 <div class="pub-body">
 <p class="pub-title"><a href="https://doi.org/10.1002/adtp.202300449">Bacterial influence on pharmacokinetics of tacrolimus and sulfasalazine through regulation of host metabolism</a></p>
 <p class="pub-authors">Cooper D, <strong>Bhushan A</strong></p>
-<p class="pub-venue"><em>Advanced Therapeutics</em>, 7(8)</p>
+<p class="pub-venue"><em>Advanced Therapeutics</em> 7(8): 2300449, 2024</p>
+<p class="pub-doi"><a href="https://doi.org/10.1002/adtp.202300449">doi.org/10.1002/adtp.202300449</a></p>
 </div>
 </li>
 <li class="pub">
@@ -167,7 +176,8 @@
 <div class="pub-body">
 <p class="pub-title"><a href="https://doi.org/10.1016/j.trecan.2024.04.001">Engineered bacterial therapeutics for detecting and treating CRC</a></p>
 <p class="pub-authors">Siguenza N, Brevi A, Zhang JT, Pabani A, <strong>Bhushan A</strong>, Das M, Ding Y, Hasty J, Ghosh P, Zarrinpar A</p>
-<p class="pub-venue"><em>Trends in Cancer</em>, 10(7): 588–597</p>
+<p class="pub-venue"><em>Trends in Cancer</em> 10(7): 588–597, 2024</p>
+<p class="pub-doi"><a href="https://doi.org/10.1016/j.trecan.2024.04.001">doi.org/10.1016/j.trecan.2024.04.001</a></p>
 </div>
 </li>
 </ol>
@@ -223,7 +233,7 @@
 </div>
 <div>
 <h2>Contact</h2>
-<p>Abhinav Bhushan<br><a href="mailto:abhushan@iit.edu">abhushan@iit.edu</a><br><a href="https://www.linkedin.com/in/abhush/">LinkedIn</a></p>
+<p>Abhinav Bhushan<br><a href="mailto:abhushan@iit.edu">abhushan@iit.edu</a><br><a href="https://www.linkedin.com/in/abhinavphd">LinkedIn</a></p>
 </div>
 <div>
 <h2>More</h2>
@@ -231,13 +241,14 @@
 <li><a href="news.html">Lab news</a></li>
 <li><a href="join.html">Join the lab</a></li>
 <li><a href="teaching.html">Teaching</a></li>
-<li><a href="https://sites.google.com/iit.edu/eng-bio-workshop-2024/">BIOMIC 2024 summer workshop</a></li>
 </ul>
 </div>
 </div>
 <p class="funding">Our research is supported by the National Institutes of Health (1U01CA265719) and the National Science Foundation (2545233, 2031762).</p>
 </div>
 </footer>
+<script src="assets/js/nav.js" defer></script>
+
 <script src="assets/js/news.js" defer></script>
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "f63998ee8e5a4acb979db13249c20d64"}'></script>
 </body>

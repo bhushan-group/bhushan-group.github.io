@@ -39,11 +39,30 @@ Open `data/news.json` on GitHub, click the pencil, and copy an existing entry fr
 
 Dates are written `2026-09-24`, or `2026-09` or `2026` when the exact day doesn't matter. An item with only a year is listed after the dated items of that year. To start a new line inside the text (for a list of talks, say), press Enter in the form or type `\n` when editing the file by hand.
 
+## Lab members
+
+The People page is built from `data/people.json`, the same way news is built from `data/news.json`. Use the **Lab members** form in Pages CMS, or edit the file by hand.
+
+Each person has a name and a group, and optionally a role, department, a sentence or two on their work, a headshot and links. **Show on website** switches someone off without deleting them, which is what to use when a person leaves and before their entry moves to an alumni list.
+
+Headshots go in `assets/img/people`, square, named like `ishita-dasgupta.jpg`. Anyone without one shows their initials in a circle of the same size, so the page stays even either way. There is no need to find a photo for everybody.
+
 ## Photos
 
 Site photos are in `assets/img/photos/`. To swap one, upload a new JPG with exactly the same file name; it replaces the old one everywhere it's used. Landscape images at least 1200 pixels wide look sharpest. News photos uploaded through the form go in `assets/img/news/`.
 
 Only post photos that everyone in them is happy to have online.
+
+## The BIOMIC menu
+
+BIOMIC sits in the top navigation as a dropdown. To add the next workshop, add one line to the `BIOMIC` list near the top of `build.py`:
+
+```python
+BIOMIC = [("BIOMIC 2026", "https://..."),
+          ("BIOMIC 2024", "https://sites.google.com/iit.edu/eng-bio-workshop-2024/")]
+```
+
+Newest first. The menu appears whenever that list has anything in it, and disappears if it is emptied.
 
 ## Visitor analytics
 

@@ -1,0 +1,122 @@
+[
+ {
+  "show": true,
+  "group": "PhD students",
+  "name": "Ishita Dasgupta",
+  "role": "PhD student",
+  "program": "Biomedical Engineering",
+  "bio": "My graduate research is focused on leveraging microfluidics to establish an organoid model of colorectal cancer.",
+  "photo": "assets/img/people/ishita-dasgupta.jpg",
+  "linkedin": "https://www.linkedin.com/in/ishita-dasgupta-9449971a9",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "PhD students",
+  "name": "Jaime Greatorex",
+  "role": "PhD student",
+  "program": "Biomedical Engineering",
+  "bio": "My graduate research uses microfluidics to investigate how gut microbes shape the development of intestinal organoids, how the gut microbiome shapes the function of the small intestine epithelium, and what conditions are needed to determine the spatiotemporal dynamics within a group of bacterial species.",
+  "photo": "assets/img/people/jaime-greatorex.jpg",
+  "linkedin": "https://www.linkedin.com/in/jaime-greatorex-437591268",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "PhD students",
+  "name": "Liya Patel",
+  "role": "PhD student",
+  "program": "Biomedical Engineering",
+  "bio": "My research focuses on building a control system to assess liver function in microfluidic liver devices.",
+  "photo": "assets/img/people/liya-patel.jpg",
+  "linkedin": "https://www.linkedin.com/in/liya-patel-5247a9297",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Master's students",
+  "name": "Diana Brizzolara",
+  "role": "Co-terminal MS student",
+  "program": "Biomedical Engineering",
+  "bio": "My goal is to design and test microfluidic devices that allow passive spatial control of oxygen, generating localized gradients through oxygen diffusion using PDMS layer geometry.",
+  "photo": "assets/img/people/diana-brizzolara.jpg",
+  "linkedin": "",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Master's students",
+  "name": "Maria Cohen",
+  "role": "MS student",
+  "program": "Biomedical Engineering",
+  "bio": "",
+  "photo": "",
+  "linkedin": "",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Master's students",
+  "name": "Kyla Narayan",
+  "role": "Co-terminal MS student",
+  "program": "Mechanical Engineering",
+  "bio": "My project uses a physics-informed neural network to model 2D oxygen diffusion in a tissue scaffold.",
+  "photo": "assets/img/people/kyla-narayan.jpg",
+  "linkedin": "https://www.linkedin.com/in/kj-narayan",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Undergraduate researchers",
+  "name": "Julia Gerber",
+  "role": "Undergraduate researcher",
+  "program": "Biochemistry",
+  "bio": "My project involves building and testing microfluidic devices for bacterial chemotaxis.",
+  "photo": "",
+  "linkedin": "",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Undergraduate researchers",
+  "name": "Katerina Muchacho",
+  "role": "Undergraduate researcher",
+  "program": "Biomedical Engineering",
+  "bio": "My project explores how different growth environments and spatial orientations affect bacterial growth, with a focus on how these conditions influence bacterial quorum sensing and communication.",
+  "photo": "assets/img/people/katerina-muchacho.jpg",
+  "linkedin": "",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Undergraduate researchers",
+  "name": "Tengis Munkhbat",
+  "role": "Undergraduate researcher",
+  "program": "Biomedical Engineering",
+  "bio": "My current goal is to build a control algorithm that improves the predictive validity of liver-on-chip systems by simulating pharmacokinetics in silico under hepatotoxic conditions.",
+  "photo": "assets/img/people/tengis-munkhbat.jpg",
+  "linkedin": "https://www.linkedin.com/in/tenmunkhbat",
+  "scholar": "",
+  "github": ""
+ },
+ {
+  "show": true,
+  "group": "Undergraduate researchers",
+  "name": "Dominique Orbea",
+  "role": "Undergraduate researcher",
+  "program": "Biomedical Engineering",
+  "bio": "My project focuses on the genetic modification of bacteria via transformation with a fluorescent reporter plasmid, the study of bacterial surface attachment under static and flow conditions, and the design of a new vector.",
+  "photo": "",
+  "linkedin": "",
+  "scholar": "",
+  "github": ""
+ }
+]
