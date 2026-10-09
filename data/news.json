@@ -1,1135 +1,581 @@
 [
   {
-    "show": true,
-    "date": "2026-09-24",
-    "category": "Lab",
-    "title": "The lab website has moved",
-    "text": "Our site now lives at bhushan-group.github.io, with current projects, the full publication list and open positions.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "date": "2026-08-01",
+    "title": "Three new graduate students join the lab! ",
+    "text": "We are excited that Liya Patel, Jaime Greatorex, and Maria Tereza Cohen Bichara. "
   },
   {
-    "show": true,
     "date": "2026-06",
-    "category": "People",
     "title": "Digital Futures Scholar-in-Residence in Stockholm",
-    "text": "Abhinav Bhushan joined KTH Royal Institute of Technology and Stockholm University in Sweden as a Digital Futures Scholar-in-Residence (visiting researcher), hosted by Dr. Erica Zeglio.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan joined KTH Royal Institute of Technology and Stockholm University in Sweden as a Digital Futures Scholar-in-Residence (visiting researcher), hosted by Dr. Erica Zeglio."
   },
   {
-    "show": true,
     "date": "2026-06",
-    "category": "Talk",
     "title": "Talk at the Digital Futures Workshop",
-    "text": "Abhinav Bhushan presented the lab's work on organ-on-chip models and continuous on-chip biosensing.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan presented the lab's work on organ-on-chip models and continuous on-chip biosensing."
   },
   {
-    "show": true,
     "date": "2026-06",
-    "category": "Paper",
     "title": "New paper on bile salts and E. coli colonization in colorectal cancer organoids",
     "text": "Ishita Dasgupta and colleagues report how bile salts and bacterial bile salt hydrolase activity influence E. coli colonization and FXR signaling in organoids. Published in Annals of Biomedical Engineering. Congratulations to all!",
-    "image": "assets/img/news/2026-bile-salts-organoids.jpg",
-    "image_alt": "Brightfield image of an organoid with fluorescent bacteria nearby",
     "link": "https://doi.org/10.1007/s10439-026-04226-2",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2026-04",
-    "category": "Paper",
     "title": "Preprint: an AI algorithm for designing synthetic promoters",
     "text": "Our paper on an AI algorithm for the design and analysis of synthetic promoters is now available as a preprint.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.5281/zenodo.19665707",
     "link_label": "Read the preprint"
   },
   {
-    "show": true,
     "date": "2026-04",
-    "category": "Talk",
     "title": "Invited talk at UIC Research Day",
-    "text": "We were invited to present our research on organ-on-chips and sensors at Research Day at the University of Illinois Chicago. We are thankful for the invitation.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "We were invited to present our research on organ-on-chips and sensors at Research Day at the University of Illinois Chicago. We are thankful for the invitation."
   },
   {
-    "show": true,
     "date": "2026-02",
-    "category": "Grant",
     "title": "New NSF funding for closed-loop control of a liver microphysiological system",
-    "text": "The lab receives new NSF funding to engineer closed-loop control of a liver microphysiological system. We are very thankful for the support and excited to continue our work in this area.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab receives new NSF funding to engineer closed-loop control of a liver microphysiological system. We are very thankful for the support and excited to continue our work in this area."
   },
   {
-    "show": true,
     "date": "2026-01",
-    "category": "Talk",
     "title": "Invited visit to Amity University, Delhi",
-    "text": "The lab was invited to present its research at Amity University in Delhi, India. We thank the faculty for hosting us and for the delightful conversations, and we look forward to collaborating.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab was invited to present its research at Amity University in Delhi, India. We thank the faculty for hosting us and for the delightful conversations, and we look forward to collaborating."
   },
   {
-    "show": true,
     "date": "2026-01",
-    "category": "Award",
     "title": "Dahee Chung wins second place for her ResMatch project",
-    "text": "Dahee Chung won second place for her ResMatch project, “Functional and genomic clustering in the colon.” Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Dahee Chung won second place for her ResMatch project, “Functional and genomic clustering in the colon.” Congratulations!"
   },
   {
-    "show": true,
     "date": "2025-10",
-    "category": "Award",
     "title": "iGEM team SynBeeGees wins a Silver medal in Paris",
-    "text": "Students from the “Engineering Life” IPRO and student club presented their project, SynBeeGees, at the iGEM meeting in Paris. The team won a Silver medal. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Students from the “Engineering Life” IPRO and student club presented their project, SynBeeGees, at the iGEM meeting in Paris. The team won a Silver medal. Congratulations to all!"
   },
   {
-    "show": true,
     "date": "2025-10",
-    "category": "Talk",
     "title": "Four presentations at the 2025 BMES Annual Meeting",
-    "text": "The lab presented its work at the 2025 BMES Annual Meeting in San Diego:\n• A Cross-Evaluation of Generative AI’s Role in BME Medical Device Concept Generation (Oct 9)\n• Modeling drug kinetics under microgravity (Oct 9)\n• Real-Time Control of Microfluidic Mixing via Machine Learning Driven Prediction (Oct 10)\n• Colon Organoids on-a-Chip to Study the Influence of Bile Acids on Gut Bacterial Colonization (Oct 10)",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "We presented our work at the 2025 BMES Annual Meeting in San Diego:\n• A Cross-Evaluation of Generative AI’s Role in BME Medical Device Concept Generation \n• Modeling drug kinetics under microgravity \n• Real-Time Control of Microfluidic Mixing via Machine Learning Driven Prediction \n• Colon Organoids on-a-Chip to Study the Influence of Bile Acids on Bacterial Colonization "
   },
   {
-    "show": true,
     "date": "2025-09",
-    "category": "Paper",
     "title": "Preprint: bile salts and bacterial colonization in colorectal organoids",
     "text": "Our paper on colorectal organoids and bile salts is now available as a preprint. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1101/2025.09.20.676381",
     "link_label": "Read the preprint"
   },
   {
-    "show": true,
     "date": "2025-08",
-    "category": "Paper",
     "title": "Electronic-nose signatures in nasopharyngeal swab samples",
     "text": "Our paper on measuring volatile organic compounds in viral transport media, and the mathematical algorithms to analyze them, is published in PLOS One. A big congratulations to our colleagues at Rush University.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1371/journal.pone.0332399",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2025-08",
-    "category": "People",
     "title": "Summer researchers from Spain and BIT Mesra win awards",
-    "text": "The lab hosted one student from Spain and seven from BIT Mesra this summer. They carried out three projects on machine learning and AI, and all three won awards at the summer research symposium. Congratulations to everyone!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab hosted one student from Spain and seven from BIT Mesra this summer. They carried out three projects on machine learning and AI, and all three won awards at the summer research symposium. Congratulations to everyone!"
   },
   {
-    "show": true,
     "date": "2024-11",
-    "category": "Award",
     "title": "Sustainable Synthesizers wins the Dean's Choice Award",
-    "text": "The Sustainable Synthesizers project from the iGEM IPRO class won the Dean's Choice Award at Illinois Tech's Innovation Day. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The Sustainable Synthesizers project from the iGEM IPRO class won the Dean's Choice Award at Illinois Tech's Innovation Day. Congratulations to all!"
   },
   {
-    "show": true,
     "date": "2024-11",
-    "category": "Event",
     "title": "Guests from industry and the clinic visit the Medical Devices course",
-    "text": "Monica Vajani from mHub, Rachael Menhart from Boston Scientific and Dr. Margot Damaser from the Cleveland Clinic visited the Medical Devices course to share their experiences and insights with students.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Monica Vajani from mHub, Rachael Menhart from Boston Scientific and Dr. Margot Damaser from the Cleveland Clinic visited the Medical Devices course to share their experiences and insights with students."
   },
   {
-    "show": true,
     "date": "2024-10",
-    "category": "Talk",
     "title": "Ishita Dasgupta presents at the 2024 BMES Annual Meeting",
-    "text": "Ishita made her first presentation at the 2024 BMES Annual Meeting in Baltimore. Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Ishita made her first presentation at the 2024 BMES Annual Meeting in Baltimore. Congratulations!"
   },
   {
-    "show": true,
     "date": "2024-09",
-    "category": "Talk",
     "title": "Talk on ethics in biomedical innovation",
-    "text": "Abhinav Bhushan was invited to give a Responsible Conduct of Research talk, “Ethics in Biomedical Innovation,” at Illinois Tech's Center for the Study of Ethics in the Professions.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan was invited to give a Responsible Conduct of Research talk, “Ethics in Biomedical Innovation,” at Illinois Tech's Center for the Study of Ethics in the Professions."
   },
   {
-    "show": true,
     "date": "2024-08",
-    "category": "Award",
     "title": "Illinois Tech award for engagement with students and organizations",
-    "text": "Abhinav Bhushan received Illinois Tech's Achievement of Commitment for Engagement with Students and Organizations.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan received Illinois Tech's Achievement of Commitment for Engagement with Students and Organizations."
   },
   {
-    "show": true,
     "date": "2024-08",
-    "category": "People",
     "title": "Summer researchers from Panama, BIT Mesra and Illinois Tech",
-    "text": "The lab hosted three students from Panama and one from BIT Mesra this summer. Together with an Illinois Tech computer science undergraduate, they carried out research on machine learning and AI and presented their work. Congratulations to everyone!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab hosted three students from Panama and one from BIT Mesra this summer. Together with an Illinois Tech computer science undergraduate, they carried out research on machine learning and AI and presented their work. Congratulations to everyone!"
   },
   {
-    "show": true,
     "date": "2024-07",
-    "category": "Paper",
     "title": "Review: engineered bacteria for detecting and treating colorectal cancer",
     "text": "With collaborators at UC San Diego, a review of engineered bacterial therapeutics for colorectal cancer. Published in Trends in Cancer. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1016/j.trecan.2024.04.001",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2024-06",
-    "category": "Paper",
     "title": "How gut bacteria change the pharmacokinetics of tacrolimus and sulfasalazine",
     "text": "Our multiyear study shows how bacteria influence the pharmacokinetics of tacrolimus and sulfasalazine by regulating host metabolism. Published in Advanced Therapeutics.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1002/adtp.202300449",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2024-05-20",
-    "category": "Event",
     "title": "Workshop: Engineering Biology using Microfluidics",
     "text": "The lab ran a summer workshop on engineering biology using microfluidics (BIOMIC 2024) for undergraduate students from the City Colleges of Chicago and Illinois Tech. Thank you to the NSF for the funding that made it possible.",
-    "image": "",
-    "image_alt": "",
     "link": "https://sites.google.com/iit.edu/eng-bio-workshop-2024/",
     "link_label": "Workshop site"
   },
   {
-    "show": true,
     "date": "2024-05",
-    "category": "Paper",
     "title": "Review: organ-on-chip models of mucosal tissues and vasculature",
     "text": "Ishita Dasgupta and colleagues review how microfluidic organ-on-chip technology is changing models of mucosal tissues and blood vessels. Published in Bioengineering. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.mdpi.com/2306-5354/11/5/476",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2024-03",
-    "category": "Event",
     "title": "Oral Health and Policy Research Symposium",
-    "text": "The lab took part in the 2024 Oral Health and Policy Research Symposium on the University of Chicago campus.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab took part in the 2024 Oral Health and Policy Research Symposium on the University of Chicago campus."
   },
   {
-    "show": true,
     "date": "2024-02",
-    "category": "Event",
     "title": "Leading a team at an ML/AI codeathon for biological research",
     "text": "We will lead a group at the Building Transparent ML/AI Solutions to Advance Biological Research Codeathon. The project will build machine learning and AI models to predict the role of bacteria in host function.",
-    "image": "",
-    "image_alt": "",
     "link": "https://ncbiinsights.ncbi.nlm.nih.gov/event/ml-ai-solutions-for-biological-research-codeathon/",
     "link_label": "About the codeathon"
   },
   {
-    "show": true,
     "date": "2023-08",
-    "category": "Award",
     "title": "NSF CAREER Award",
-    "text": "Abhinav Bhushan received a Faculty Early Career Development (CAREER) Award from the National Science Foundation.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan received a Faculty Early Career Development (CAREER) Award from the National Science Foundation."
   },
   {
-    "show": true,
     "date": "2023-06",
-    "category": "Media",
     "title": "Interview with The Scientist on disease scent signatures",
     "text": "Abhinav Bhushan was interviewed by The Scientist for “Disease Scent Signatures Disclose What the Nose Knows.”",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.the-scientist.com/disease-scent-signatures-disclose-what-the-nose-knows-71161",
     "link_label": "Read the article"
   },
   {
-    "show": true,
     "date": "2023-04",
-    "category": "Lab",
     "title": "Video: a nasal epithelial cell spun by its cilia",
     "text": "A nasal epithelial cell rotating, driven by its oscillating cilia.",
-    "image": "",
-    "image_alt": "",
     "link": "https://youtube.com/shorts/OoYKd9U2i48",
     "link_label": "Watch the video"
   },
   {
-    "show": true,
     "date": "2023-04",
-    "category": "Paper",
     "title": "Review: linear and nonlinear models in breath analysis",
     "text": "Our review of the linear and nonlinear models used to analyze breath with the Cyranose 320 electronic nose was accepted in the Journal of Breath Research. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1088/1752-7163/accf31",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2023-03",
-    "category": "Media",
     "title": "NSF PREPARE podcast interview",
     "text": "Our interview for NSF PREPARE: Science Before the Storm is available as a downloadable podcast.",
-    "image": "",
-    "image_alt": "",
     "link": "https://open.spotify.com/show/49HJAQ6UxUIZM7shzbpA7V",
     "link_label": "Listen to the podcast"
   },
   {
-    "show": true,
     "date": "2023-03",
-    "category": "Paper",
     "title": "Commentary: modeling collective cell behavior in cancer",
     "text": "Our commentary, “Modeling collective cell behavior in cancer: perspectives from an interdisciplinary conversation,” is published in Cell Systems. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.sciencedirect.com/science/article/pii/S2405471223000789",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2023-02",
-    "category": "Grant",
     "title": "Collaborative R21 with Rush on personalized pancreatic cancer",
-    "text": "Our collaborative R21 with Rush University on personalized pancreatic cancer using microfluidic organ-on-chip devices received its notice of award.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Our collaborative R21 with Rush University on personalized pancreatic cancer using microfluidic organ-on-chip devices received its notice of award."
   },
   {
-    "show": true,
     "date": "2022-11",
-    "category": "Paper",
     "title": "Review: VOC profiling for noninfectious diseases",
     "text": "Our review of the diagnostic potential of volatile organic compound profiling for noninfectious diseases was accepted in BME Frontiers. Congratulations to all!",
-    "image": "",
-    "image_alt": "",
     "link": "https://spj.science.org/doi/10.34133/bmef.0002",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2022-10-11",
-    "category": "Media",
     "title": "Illinois Tech News features the lab's colon chip",
     "text": "The story describes how the lab uses a microfluidic device to test engineered bacteria designed to detect and eliminate colon cancer cells, in an NIH-funded project led by UC San Diego.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.iit.edu/news/chip-sized-device-mighty-tool-finding-colon-cancer-treatment",
     "link_label": "Read the story"
   },
   {
-    "show": true,
     "date": "2022-09",
-    "category": "Award",
     "title": "CMBE Young Innovator Award",
-    "text": "Abhinav Bhushan was named a Cellular and Molecular Bioengineering Young Innovator by the Biomedical Engineering Society. Credit goes to all the students who carried out the studies.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan was named a Cellular and Molecular Bioengineering Young Innovator by the Biomedical Engineering Society. Credit goes to all the students who carried out the studies."
   },
   {
-    "show": true,
     "date": "2022-09",
-    "category": "Paper",
     "title": "How an anoxic environment shapes bacterial regulation of intestinal function",
     "text": "Our latest paper, “Causative Role of Anoxic Environment in Bacterial Regulation of Human Intestinal Function,” is published in Cellular and Molecular Bioengineering. Congratulations, everyone!",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1007/s12195-022-00735-x",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2022-07",
-    "category": "Grant",
     "title": "Funding to develop a point-of-care device for periodontitis",
     "text": "The group receives new funding from the Institute for Translational Medicine to develop a point-of-care device for periodontitis.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.youtube.com/watch?v=8fOIGsyLICQ",
     "link_label": "Watch the video"
   },
   {
-    "show": true,
     "date": "2022-06",
-    "category": "Paper",
     "title": "Preprint: the SARS-CoV-2 spike protein and inflammation in lung and intestinal cells",
     "text": "A new preprint from our NSF collaborative project with Rush University Medical Center: “SARS-CoV-2 S1 Spike Protein Promotes MAPK and NF-kB Activation and Inflammatory Cytokine Production in Human Lung and Intestinal Epithelial Cells.”",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.preprints.org/manuscript/202206.0010/v1",
     "link_label": "Read the preprint"
   },
   {
-    "show": true,
     "date": "2022-04",
-    "category": "Paper",
     "title": "Patient-derived pancreatic cancer-on-a-chip",
     "text": "Our paper with Rush University Medical Center, “Patient-derived pancreatic cancer-on-a-chip recapitulates the tumor microenvironment,” is accepted for publication in Microsystems & Nanoengineering. Congratulations, everyone!",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.nature.com/articles/s41378-022-00370-6",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2021-12",
-    "category": "Lab",
     "title": "Contributing to the decadal survey on research in space",
-    "text": "The lab contributed to the National Academies' Decadal Survey on Biological and Physical Sciences Research in Space 2023–2032.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab contributed to the National Academies' Decadal Survey on Biological and Physical Sciences Research in Space 2023–2032."
   },
   {
-    "show": true,
     "date": "2021-12",
-    "category": "Paper",
     "title": "Investigating insulin resistance with a multiorgan organ-on-chip",
     "text": "Our paper, “Investigation of insulin resistance through a multiorgan microfluidic organ-on-chip,” is accepted for publication in Biomedical Materials. Congratulations, everyone!",
-    "image": "",
-    "image_alt": "",
     "link": "https://iopscience.iop.org/article/10.1088/1748-605X/ac4611",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2021-10",
-    "category": "Grant",
     "title": "New NIH R01 to diagnose periodontitis at the point of care",
     "text": "In this collaborative R01 project we will develop a microfluidic point-of-care device and combine it with machine learning to diagnose periodontitis.",
-    "image": "",
-    "image_alt": "",
     "link": "https://reporter.nih.gov/project-details/10438075",
     "link_label": "Project details"
   },
   {
-    "show": true,
     "date": "2021-09",
-    "category": "Grant",
     "title": "New NIH U01 to engineer native E. coli against colorectal cancer",
     "text": "The collaborative U01 project will engineer native E. coli to detect, report and treat colorectal cancer.",
-    "image": "",
-    "image_alt": "",
     "link": "https://reporter.nih.gov/project-details/10330342",
     "link_label": "Project details"
   },
   {
-    "show": true,
     "date": "2021-09",
-    "category": "Award",
     "title": "Hasan Abdelsaid and Michael Watts named ResMatch fellows",
-    "text": "Hasan Abdelsaid (BME) and Michael Watts (Biology) were selected as ResMatch fellows for Fall 2021.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Hasan Abdelsaid (BME) and Michael Watts (Biology) were selected as ResMatch fellows for Fall 2021."
   },
   {
-    "show": true,
     "date": "2021-09",
-    "category": "Paper",
     "title": "Review: organ-chip models for precision medicine in pancreatic cancer",
     "text": "Our review, “Organ-Chip models: Opportunities for precision medicine in pancreatic cancer,” is published in Cancers.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.mdpi.com/2072-6694/13/17/4487",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2021-06",
-    "category": "Award",
     "title": "Pooja Patel, Phuong Tran and Jessica Rodriguez Arias named ResMatch fellows",
-    "text": "Pooja Patel, Phuong Tran and Jessica Rodriguez Arias were selected as ResMatch fellows for Summer 2021.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Pooja Patel, Phuong Tran and Jessica Rodriguez Arias were selected as ResMatch fellows for Summer 2021."
   },
   {
-    "show": true,
     "date": "2021-01",
-    "category": "Paper",
     "title": "An organ-chip with a partitioned-oxygen intestinal microenvironment",
     "text": "Our paper on creating a partitioned-oxygen intestinal microenvironment in a microfluidic organ-chip is published in FASEB Journal.",
-    "image": "",
-    "image_alt": "",
     "link": "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fj.202001600RR",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2021-01",
-    "category": "Media",
     "title": "New NSF funding profiled",
     "text": "Illinois Tech News profiles our new NSF-funded research on volatile organic compounds, which could lead to a rapid diagnostic test for COVID-19.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.iit.edu/news/new-research-aims-better-understand-volatile-organic-compounds-could-lead-rapid-diagnostic-covid-19",
     "link_label": "Read the story"
   },
   {
-    "show": true,
     "date": "2020-12",
-    "category": "Paper",
     "title": "A 3D human adipose tissue model in a microfluidic device",
     "text": "Our collaborative paper with the University of Texas at San Antonio and the University of Chicago on a 3D human adipose tissue microfluidic construct is published in Lab on a Chip.",
-    "image": "",
-    "image_alt": "",
     "link": "https://pubs.rsc.org/en/content/articlelanding/2021/lc/d0lc00981d",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2020-07",
-    "category": "Paper",
     "title": "Toward an insulin-resistant adipose model on a chip",
     "text": "Our latest paper on an insulin-resistant adipocyte model on a chip is published in Cellular and Molecular Bioengineering.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1007/s12195-020-00636-x",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2020-07",
-    "category": "Paper",
     "title": "Undergraduate research on leaky gut published",
     "text": "Undergraduate student Jasmine Baste's preliminary research on leaky gut is published in an undergraduate research journal!",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.21985/n2-x29x-7w21",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2020-07",
-    "category": "Grant",
     "title": "Funding for biosensors to detect amyloid proteins in Alzheimer's disease",
-    "text": "The lab receives new funding to develop ultrasensitive protein biosensors that detect amyloid proteins in patients with Alzheimer's disease.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab receives new funding to develop ultrasensitive protein biosensors that detect amyloid proteins in patients with Alzheimer's disease."
   },
   {
-    "show": true,
     "date": "2020-06",
-    "category": "Grant",
     "title": "New NSF funding for SARS-CoV-2 research",
-    "text": "The lab receives new funding from the NSF to understand cell biology related to SARS-CoV-2 infection and to develop sensors that detect early infection.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab receives new funding from the NSF to understand cell biology related to SARS-CoV-2 infection and to develop sensors that detect early infection."
   },
   {
-    "show": true,
     "date": "2020-06",
-    "category": "Talk",
     "title": "Abstract at the American Diabetes Association Scientific Sessions",
-    "text": "Our abstract was presented at the 80th Scientific Sessions of the American Diabetes Association.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Our abstract was presented at the 80th Scientific Sessions of the American Diabetes Association."
   },
   {
-    "show": true,
     "date": "2020-06",
-    "category": "Award",
     "title": "Nida Tanataweethum's abstract named Outstanding at ENDO 2020",
-    "text": "Nida's abstract received an Outstanding Abstract Award at the Endocrine Society's ENDO 2020 meeting. Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Nida's abstract received an Outstanding Abstract Award at the Endocrine Society's ENDO 2020 meeting. Congratulations!"
   },
   {
-    "show": true,
     "date": "2020-05",
-    "category": "People",
-    "title": "Congratulations to the class of 2020!",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Congratulations to the class of 2020!"
   },
   {
-    "show": true,
     "date": "2020-02",
-    "category": "Award",
     "title": "Jasmine Baste wins first prize at the IL-LSAMP conference",
-    "text": "Jasmine received first prize for her poster presentation at the IL-LSAMP conference.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Jasmine received first prize for her poster presentation at the IL-LSAMP conference."
   },
   {
-    "show": true,
     "date": "2020",
-    "category": "Grant",
     "title": "NSF I-Corps Site/Node grant",
-    "text": "Abhinav Bhushan received an NSF I-Corps Site/Node grant, part of the lab's work to assess the market fit of a technology developed in the lab.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan received an NSF I-Corps Site/Node grant, part of the lab's work to assess the market fit of a technology developed in the lab."
   },
   {
-    "show": true,
     "date": "2019-11",
-    "category": "Event",
     "title": "Student team competes at iGEM 2019 in Boston",
     "text": "Our student team took part in the 2019 iGEM competition in Boston. The project also won first place in its category at IPRO Day.",
-    "image": "",
-    "image_alt": "",
     "link": "https://2019.igem.org/Team:IIT_Chicago",
     "link_label": "See the project"
   },
   {
-    "show": true,
     "date": "2019-11",
-    "category": "Award",
     "title": "Jasmine Baste receives an ABRCMS travel award",
-    "text": "Jasmine received a travel award to present her work at ABRCMS.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Jasmine received a travel award to present her work at ABRCMS."
   },
   {
-    "show": true,
     "date": "2019-10",
-    "category": "People",
     "title": "Feipeng Yang becomes the lab's first PhD graduate",
-    "text": "Feipeng Yang defended his dissertation to graduate as the lab's first PhD student.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Feipeng Yang defended his dissertation to graduate as the lab's first PhD student."
   },
   {
-    "show": true,
     "date": "2019-08",
-    "category": "Grant",
     "title": "Pilot funding with Rush for personalized pancreatic cancer diagnosis",
-    "text": "Our collaborative project with Rush received pilot funding for personalized pancreatic cancer diagnosis.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Our collaborative project with Rush received pilot funding for personalized pancreatic cancer diagnosis."
   },
   {
-    "show": true,
     "date": "2019-07",
-    "category": "Grant",
     "title": "Funding from ARDF",
     "text": "The lab receives funding from ARDF!",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.ardf-online.org/",
     "link_label": "About ARDF"
   },
   {
-    "show": true,
     "date": "2019-07",
-    "category": "People",
     "title": "BIT Mesra students join for the Summer Immersion Program",
-    "text": "Students from BIT Mesra work in the lab as part of the Illinois Tech Summer Immersion Program. Welcome!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Students from BIT Mesra work in the lab as part of the Illinois Tech Summer Immersion Program. Welcome!"
   },
   {
-    "show": true,
     "date": "2019-05",
-    "category": "People",
     "title": "Four MS thesis defenses",
-    "text": "Qifan He, Laura Hetzel, Vineet Penamurthy and Kihwan Kim successfully defended their MS theses. Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Qifan He, Laura Hetzel, Vineet Penamurthy and Kihwan Kim successfully defended their MS theses. Congratulations!"
   },
   {
-    "show": true,
     "date": "2019-04",
-    "category": "Award",
     "title": "Team selected for the NAE Grand Challenges Scholars Program",
     "text": "A team mentored by Abhinav Bhushan was selected to represent Illinois Tech in the 2019 National Academy of Engineering Grand Challenges Scholars Program in Washington, D.C.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.engineeringchallenges.org/GrandChallengeScholarsProgram.aspx",
     "link_label": "About the program"
   },
   {
-    "show": true,
     "date": "2019-01",
-    "category": "Paper",
     "title": "Real-time measurement of cholesterol secreted by liver cells",
     "text": "Our paper, “Real-time measurement of cholesterol secreted by human hepatocytes using a novel microfluidic assay,” is published in Technology, with a press release and further coverage.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1142/S2339547818500097",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2018-09",
-    "category": "Award",
     "title": "Andrea Cancino receives a BMES travel award",
-    "text": "Andrea received a BMES travel award to attend the 2018 BMES Annual Meeting in Atlanta.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Andrea received a BMES travel award to attend the 2018 BMES Annual Meeting in Atlanta."
   },
   {
-    "show": true,
     "date": "2018-09",
-    "category": "Talk",
     "title": "Poster at the Islet Cell Biology meeting",
-    "text": "A poster on our research was presented at the Islet Cell Biology meeting in Nashville.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "A poster on our research was presented at the Islet Cell Biology meeting in Nashville."
   },
   {
-    "show": true,
     "date": "2018-07",
-    "category": "People",
     "title": "Rongfei Fu defends his thesis",
-    "text": "Rongfei Fu successfully defended his thesis. Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Rongfei Fu successfully defended his thesis. Congratulations!"
   },
   {
-    "show": true,
     "date": "2018-07",
-    "category": "Award",
     "title": "Chengyao Wang receives a travel award to the Kenneth Rainin Innovation Symposium",
-    "text": "Chengyao received a travel award to attend the Kenneth Rainin Innovation Symposium in San Francisco and presented two posters there.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Chengyao received a travel award to attend the Kenneth Rainin Innovation Symposium in San Francisco and presented two posters there."
   },
   {
-    "show": true,
     "date": "2018-06",
-    "category": "Media",
     "title": "Illinois Tech profiles the lab's obesity research",
     "text": "Illinois Tech News profiles how the lab's microfluidic chip is advancing obesity research.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.iit.edu/news/illinois-tech-engineers-advance-obesity-research-through-innovative-microfluidic-chip",
     "link_label": "Read the story"
   },
   {
-    "show": true,
     "date": "2018-06",
-    "category": "Media",
     "title": "Technology Networks profiles our colon-on-a-chip",
     "text": "Technology Networks profiles our work on a collagen membrane that improves the function of a colon-on-a-chip.",
-    "image": "",
-    "image_alt": "",
     "link": "https://www.technologynetworks.com/drug-discovery/articles/novel-collagen-membrane-improves-colon-on-a-chip-functionality-304258",
     "link_label": "Read the story"
   },
   {
-    "show": true,
     "date": "2018-05",
-    "category": "Award",
     "title": "Chengyao Wang receives the Starr Fieldhouse Research Fellowship",
-    "text": "Congratulations, Chengyao!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Congratulations, Chengyao!"
   },
   {
-    "show": true,
     "date": "2018-04",
-    "category": "Paper",
     "title": "A primary murine adipose tissue-chip",
     "text": "Nida Tanataweethum's paper, “Establishment and characterization of a primary murine adipose tissue-chip,” is accepted for publication in Biotechnology and Bioengineering.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1002/bit.26711",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2018-02",
-    "category": "Paper",
     "title": "A microfluidic colon with an extracellular matrix membrane",
     "text": "Chengyao Wang's paper is accepted for publication in ACS Biomaterials Science & Engineering, with additional coverage by ACS.",
-    "image": "",
-    "image_alt": "",
     "link": "https://pubs.acs.org/doi/10.1021/acsbiomaterials.7b00883",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2018",
-    "category": "Event",
     "title": "Science outreach with C2ST and Science Riot",
     "text": "The lab communicates science to the public, this time through a partnership with C2ST and Science Riot.",
-    "image": "",
-    "image_alt": "",
     "link": "https://youtu.be/Cr_b1ZUAp-g",
     "link_label": "Watch the video"
   },
   {
-    "show": true,
     "date": "2017-10",
-    "category": "Paper",
     "title": "A microfluidic in-line ELISA for measuring secreted proteins",
     "text": "Our paper, “A microfluidic in-line ELISA for measuring secreted proteins under perfusion,” is published in Biomedical Microdevices.",
-    "image": "",
-    "image_alt": "",
     "link": "https://doi.org/10.1007/s10544-017-0244-6",
     "link_label": "Read the paper"
   },
   {
-    "show": true,
     "date": "2017-10",
-    "category": "Award",
     "title": "Selected for Phase 2 of the Nayar Prize II",
-    "text": "The lab is one of the two teams selected for Phase 2 of Illinois Tech's Nayar Prize II.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab is one of the two teams selected for Phase 2 of Illinois Tech's Nayar Prize II."
   },
   {
-    "show": true,
     "date": "2017-10",
-    "category": "Talk",
     "title": "Talk at the Mid-Atlantic Diabetes Symposium at NIH",
-    "text": "Abhinav Bhushan presented at the Mid-Atlantic Diabetes Symposium held at NIH in Bethesda.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan presented at the Mid-Atlantic Diabetes Symposium held at NIH in Bethesda."
   },
   {
-    "show": true,
     "date": "2017-04",
-    "category": "Talk",
     "title": "Sonali Karnik and Nida Tanataweethum present at Experimental Biology 2017",
-    "text": "Dr. Karnik and Nida presented their research at the Experimental Biology 2017 conference.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Dr. Karnik and Nida presented their research at the Experimental Biology 2017 conference."
   },
   {
-    "show": true,
     "date": "2017-04",
-    "category": "Award",
-    "title": "Tung Nguyen wins first prize at the Kilpatrick Lecture symposium",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Tung Nguyen wins first prize at the Kilpatrick Lecture symposium"
   },
   {
-    "show": true,
     "date": "2017-03",
-    "category": "Talk",
     "title": "Tung Nguyen presents a first-author poster at Pittcon 2017",
-    "text": "Undergraduate student Tung Nguyen presented a poster as lead author at Pittcon 2017.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Undergraduate student Tung Nguyen presented a poster as lead author at Pittcon 2017."
   },
   {
-    "show": true,
     "date": "2017-01",
-    "category": "Award",
     "title": "Stacey Cahoon receives undergraduate research support",
-    "text": "Stacey was selected for undergraduate research support from the Armour College of Engineering.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Stacey was selected for undergraduate research support from the Armour College of Engineering."
   },
   {
-    "show": true,
     "date": "2017",
-    "category": "People",
-    "title": "The lab welcomes new students!",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "The lab welcomes new students!"
   },
   {
-    "show": true,
     "date": "2017",
-    "category": "People",
-    "title": "Congratulations to new graduates Stacey, Chelsea and Agnes!",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Congratulations to new graduates Stacey, Chelsea and Agnes!"
   },
   {
-    "show": true,
     "date": "2017",
-    "category": "People",
-    "title": "Briana Rhodes and Kihwan Kim join as master's students",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Briana Rhodes and Kihwan Kim join as master's students"
   },
   {
-    "show": true,
     "date": "2016-10",
-    "category": "Award",
     "title": "Nayar Prize II Phase 1 award",
-    "text": "The lab receives a Phase 1 award in Illinois Tech's Nayar Prize II.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "The lab receives a Phase 1 award in Illinois Tech's Nayar Prize II."
   },
   {
-    "show": true,
     "date": "2016-09",
-    "category": "People",
-    "title": "Chengyao Wang joins as a PhD student",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Chengyao Wang joins as a PhD student"
   },
   {
-    "show": true,
     "date": "2016-06",
-    "category": "People",
-    "title": "Dr. Sonali Karnik joins as a postdoctoral fellow",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Dr. Sonali Karnik joins as a postdoctoral fellow"
   },
   {
-    "show": true,
     "date": "2016-06",
-    "category": "People",
     "title": "Antonio (Jun Yeob) joins as a summer intern",
-    "text": "Welcome!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Welcome!"
   },
   {
-    "show": true,
     "date": "2016-05",
-    "category": "People",
     "title": "Damian Hernandez joins as an REU student",
-    "text": "Welcome!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Welcome!"
   },
   {
-    "show": true,
     "date": "2016-05",
-    "category": "People",
-    "title": "Luisa Oliveira joins through the Summer Immersion Program",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Luisa Oliveira joins through the Summer Immersion Program"
   },
   {
-    "show": true,
     "date": "2016-05",
-    "category": "Award",
-    "title": "Adelyn Zelaya receives a summer fellowship",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Adelyn Zelaya receives a summer fellowship"
   },
   {
-    "show": true,
     "date": "2016-05",
-    "category": "Award",
     "title": "Morgan Kretlow receives an Armour R&D Fellowship",
-    "text": "Morgan was selected for Illinois Tech's Summer 2016 Armour R&D Fellowship. Congratulations!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Morgan was selected for Illinois Tech's Summer 2016 Armour R&D Fellowship. Congratulations!"
   },
   {
-    "show": true,
     "date": "2016-04",
-    "category": "People",
-    "title": "Several undergraduate students join the lab as researchers",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Several undergraduate students join the lab as researchers"
   },
   {
-    "show": true,
     "date": "2016-04",
-    "category": "People",
-    "title": "Rongfei Yu joins as a master's student",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Rongfei Yu joins as a master's student"
   },
   {
-    "show": true,
     "date": "2016-03",
-    "category": "People",
-    "title": "Vijay Rajendran joins as an undergraduate researcher",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Vijay Rajendran joins as an undergraduate researcher"
   },
   {
-    "show": true,
     "date": "2016-02",
-    "category": "People",
-    "title": "Nida Tanataweethum joins as a PhD student",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "Nida Tanataweethum joins as a PhD student"
   },
   {
-    "show": true,
     "date": "2016-01",
-    "category": "Lab",
-    "title": "The lab webpage goes online!",
-    "text": "",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "title": "The lab webpage goes online!"
   },
   {
-    "show": true,
     "date": "2016",
-    "category": "People",
     "title": "Daisy Lopez, Efrain Salazar, Laura Castaneda and Vineet Penumarthy join as master's students",
-    "text": "Welcome!",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Welcome!"
   },
   {
-    "show": true,
     "date": "2013-06",
-    "category": "Award",
     "title": "NIH K99/R00 Pathway to Independence Award",
-    "text": "Abhinav Bhushan received a K99/R00 Pathway to Independence Award from the National Institutes of Health.",
-    "image": "",
-    "image_alt": "",
-    "link": "",
-    "link_label": ""
+    "text": "Abhinav Bhushan received a K99/R00 Pathway to Independence Award from the National Institutes of Health."
   }
 ]
