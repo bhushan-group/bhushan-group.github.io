@@ -1,0 +1,663 @@
+{
+ "pubs": [
+  {
+   "year": 2026,
+   "title_html": "Bile salts and bacterial bile salt hydrolase activity differentially influence <em>Escherichia coli</em> colonization and FXR signaling in colorectal cancer organoids",
+   "link": "https://doi.org/10.1007/s10439-026-04226-2",
+   "authors": "Dasgupta I, Brevi A, Ma Y, Rangineni DP, Duran M, Zarrinpar A, Bhushan A",
+   "venue": "Annals of Biomedical Engineering",
+   "details": "",
+   "doi": "10.1007/s10439-026-04226-2",
+   "volume": "",
+   "issue": "",
+   "pages": ""
+  },
+  {
+   "year": 2026,
+   "title_html": "Zero-shot foundation models enable in silico directed evolution of high-fitness synthetic promoters",
+   "link": "https://doi.org/10.5281/zenodo.19665707",
+   "authors": "Bhushan A",
+   "venue": "Preprint, Zenodo",
+   "details": "",
+   "doi": "10.5281/zenodo.19665707",
+   "volume": "",
+   "issue": "",
+   "pages": ""
+  },
+  {
+   "year": 2025,
+   "title_html": "Examination of unique volatile organic compound signatures in nasopharyngeal test swab viral transport media using an electronic nose",
+   "link": "https://doi.org/10.1371/journal.pone.0332399",
+   "authors": "Swanson B, Bishop-Royse J, Keshavarzian A, Balk R, Bhushan A, Moy J, Landay A, Julion W, Mehta J, Arrieta M, Behun D, Bowlen M, Kang M",
+   "venue": "PLOS One",
+   "details": "20(9): e0332399",
+   "doi": "10.1371/journal.pone.0332399",
+   "volume": "20",
+   "issue": "9",
+   "pages": "e0332399"
+  },
+  {
+   "year": 2024,
+   "title_html": "Engineered bacterial therapeutics for detecting and treating CRC",
+   "link": "https://doi.org/10.1016/j.trecan.2024.04.001",
+   "authors": "Siguenza N, Brevi A, Zhang JT, Pabani A, Bhushan A, Das M, Ding Y, Hasty J, Ghosh P, Zarrinpar A",
+   "venue": "Trends in Cancer",
+   "details": "10(7): 588–597",
+   "doi": "10.1016/j.trecan.2024.04.001",
+   "volume": "10",
+   "issue": "7",
+   "pages": "588-597"
+  },
+  {
+   "year": 2024,
+   "title_html": "Bacterial influence on pharmacokinetics of tacrolimus and sulfasalazine through regulation of host metabolism",
+   "link": "https://doi.org/10.1002/adtp.202300449",
+   "authors": "Cooper D, Bhushan A",
+   "venue": "Advanced Therapeutics",
+   "details": "7(8)",
+   "doi": "10.1002/adtp.202300449",
+   "volume": "7",
+   "issue": "8",
+   "pages": "2300449"
+  },
+  {
+   "year": 2024,
+   "title_html": "Tiny Organs, Big Impact: How Microfluidic Organ-on-Chip Technology Is Revolutionizing Mucosal Tissues and Vasculature",
+   "link": "https://doi.org/10.3390/bioengineering11050476",
+   "authors": "Dasgupta I, Rangineni DP, Abdelsaid H, Ma Y, Bhushan A",
+   "venue": "Bioengineering",
+   "details": "11(5)",
+   "doi": "10.3390/bioengineering11050476",
+   "volume": "11",
+   "issue": "5",
+   "pages": "476"
+  },
+  {
+   "year": 2023,
+   "title_html": "Review of linear and nonlinear models in breath analysis by Cyranose 320",
+   "link": "https://doi.org/10.1088/1752-7163/accf31",
+   "authors": "Arrieta M, Swanson B, Fogg L, Bhushan A",
+   "venue": "Journal of Breath Research",
+   "details": "17(3)",
+   "doi": "10.1088/1752-7163/accf31",
+   "volume": "17",
+   "issue": "3",
+   "pages": "036005"
+  },
+  {
+   "year": 2023,
+   "title_html": "Modeling collective cell behavior in cancer: Perspectives from an interdisciplinary conversation",
+   "link": "https://doi.org/10.1016/j.cels.2023.03.002",
+   "authors": "Adler F, et al.",
+   "venue": "Cell Systems",
+   "details": "14(4): 252–257",
+   "doi": "10.1016/j.cels.2023.03.002",
+   "volume": "14",
+   "issue": "4",
+   "pages": "252-257"
+  },
+  {
+   "year": 2023,
+   "title_html": "The Versatility and Diagnostic Potential of VOC Profiling for Noninfectious Diseases",
+   "link": "https://doi.org/10.34133/bmef.0002",
+   "authors": "Oxner M, Mehta J, Trang A, Forsyth C, Swanson B, Keshavarzian A, Bhushan A",
+   "venue": "BME Frontiers",
+   "details": "4: 0002",
+   "doi": "10.34133/bmef.0002",
+   "volume": "4",
+   "issue": "",
+   "pages": "0002"
+  },
+  {
+   "year": 2022,
+   "title_html": "Causative role of anoxic environment in bacterial regulation of human intestinal function",
+   "link": "https://doi.org/10.1007/s12195-022-00735-x",
+   "authors": "Wang C, Cancino A, Baste J, Marten D, Joshi AA, Nasreen A, Bhushan A",
+   "venue": "Cellular and Molecular Bioengineering",
+   "details": "15(5): 493–504",
+   "doi": "10.1007/s12195-022-00735-x",
+   "volume": "15",
+   "issue": "5",
+   "pages": "493-504"
+  },
+  {
+   "year": 2022,
+   "title_html": "The SARS-CoV-2 spike protein promotes MAPK and NF-kB activation in human lung cells and inflammatory cytokine production in human lung and intestinal epithelial cells",
+   "link": "https://doi.org/10.3390/microorganisms10101996",
+   "authors": "Forsyth C, Zhang L, Bhushan A, Swanson B, Zhang L, Mamede JI, Voigt RM, Shaikh M, Engen PA, Keshavarzian A",
+   "venue": "Microorganisms",
+   "details": "10(10): 1996",
+   "doi": "10.3390/microorganisms10101996",
+   "volume": "10",
+   "issue": "10",
+   "pages": "1996"
+  },
+  {
+   "year": 2022,
+   "title_html": "Patient-derived pancreatic cancer-on-a-chip recapitulates the tumor microenvironment",
+   "link": "https://doi.org/10.1038/s41378-022-00370-6",
+   "authors": "Haque MR, Wessel CR, Leary DD, Wang C, Bhushan A, Bishehsari F",
+   "venue": "Microsystems & Nanoengineering",
+   "details": "8: 36",
+   "doi": "10.1038/s41378-022-00370-6",
+   "volume": "8",
+   "issue": "1",
+   "pages": "36"
+  },
+  {
+   "year": 2022,
+   "title_html": "Investigation of insulin resistance through a multiorgan microfluidic organ-on-chip",
+   "link": "https://doi.org/10.1088/1748-605X/ac4611",
+   "authors": "Tanataweethum N, Trang A, Lee C, Mehta J, Patel N, Cohen RN, Bhushan A",
+   "venue": "Biomedical Materials",
+   "details": "",
+   "doi": "10.1088/1748-605X/ac4611",
+   "volume": "17",
+   "issue": "2",
+   "pages": "025002"
+  },
+  {
+   "year": 2021,
+   "title_html": "Organ-Chip models: Opportunities for precision medicine in pancreatic cancer",
+   "link": "https://doi.org/10.3390/cancers13174487",
+   "authors": "Haque MR, Rempert TH, Al-Hilal TA, Wang C, Bhushan A, Bishehsari F",
+   "venue": "Cancers",
+   "details": "13(17): 4487",
+   "doi": "10.3390/cancers13174487",
+   "volume": "13",
+   "issue": "17",
+   "pages": "4487"
+  },
+  {
+   "year": 2021,
+   "title_html": "A novel standalone microfluidic device for local control of oxygen tension for intestinal-bacteria interactions",
+   "link": "https://doi.org/10.1096/fj.202001600RR",
+   "authors": "Wang C, Dang T, Baste J, Joshi AA, Bhushan A",
+   "venue": "FASEB Journal",
+   "details": "",
+   "doi": "10.1096/fj.202001600RR",
+   "volume": "35",
+   "issue": "2",
+   "pages": "e21291"
+  },
+  {
+   "year": 2021,
+   "title_html": "A 3D human adipose tissue model within a microfluidic device",
+   "link": "https://doi.org/10.1039/D0LC00981D",
+   "authors": "Yang F, Carmona A, Stojkova K, Huitron EI, Goddi A, Bhushan A, Cohen RN, Brey EM",
+   "venue": "Lab on a Chip",
+   "details": "",
+   "doi": "10.1039/D0LC00981D",
+   "volume": "21",
+   "issue": "2",
+   "pages": "435-446"
+  },
+  {
+   "year": 2020,
+   "title_html": "Towards an insulin resistant adipose model on a chip",
+   "link": "https://doi.org/10.1007/s12195-020-00636-x",
+   "authors": "Tanataweethum N, Zhong F, Trang A, Lee C, Cohen RN, Bhushan A",
+   "venue": "Cellular and Molecular Bioengineering",
+   "details": "",
+   "doi": "10.1007/s12195-020-00636-x",
+   "volume": "14",
+   "issue": "1",
+   "pages": "89-99"
+  },
+  {
+   "year": 2019,
+   "title_html": "Real-time measurement of cholesterol secreted by human hepatocytes using a novel microfluidic assay",
+   "link": "https://doi.org/10.1142/S2339547818500097",
+   "authors": "Karnik S, Lee C, Cancino A, Bhushan A",
+   "venue": "Technology",
+   "details": "",
+   "doi": "10.1142/S2339547818500097",
+   "volume": "6",
+   "issue": "03n04",
+   "pages": "135-141"
+  },
+  {
+   "year": 2018,
+   "title_html": "Establishment and characterization of a primary murine adipose tissue-chip",
+   "link": "https://doi.org/10.1002/bit.26711",
+   "authors": "Tanataweethum N, Zelaya A, Yang F, Cohen RN, Brey EM, Bhushan A",
+   "venue": "Biotechnology and Bioengineering",
+   "details": "",
+   "doi": "10.1002/bit.26711",
+   "volume": "115",
+   "issue": "8",
+   "pages": "1979-1987"
+  },
+  {
+   "year": 2018,
+   "title_html": "A novel microfluidic colon with an extracellular matrix membrane",
+   "link": "https://doi.org/10.1021/acsbiomaterials.7b00883",
+   "authors": "Wang C, Tanataweethum N, Karnik S, Bhushan A",
+   "venue": "ACS Biomaterials Science and Engineering",
+   "details": "",
+   "doi": "10.1021/acsbiomaterials.7b00883",
+   "volume": "4",
+   "issue": "4",
+   "pages": "1377-1385"
+  },
+  {
+   "year": 2018,
+   "title_html": "A pilot study exploring the impact of cardiac medications on ciliary beat frequency: possible implications for clinical management",
+   "link": "https://doi.org/10.1515/jbcpp-2017-0130",
+   "authors": "Loomba R, Bhushan A, Afolayan AJ",
+   "venue": "Journal of Basic and Clinical Physiology and Pharmacology",
+   "details": "",
+   "doi": "10.1515/jbcpp-2017-0130",
+   "volume": "29",
+   "issue": "5",
+   "pages": "565-571"
+  },
+  {
+   "year": 2017,
+   "title_html": "A microfluidic in-line ELISA for measuring secreted proteins under perfusion",
+   "link": "https://doi.org/10.1007/s10544-017-0244-6",
+   "authors": "Luan Q, Cahoon S, Wu A, Bale SS, Yarmush ML, Bhushan A",
+   "venue": "Biomedical Microdevices",
+   "details": "19: 101",
+   "doi": "10.1007/s10544-017-0244-6",
+   "volume": "19",
+   "issue": "4",
+   "pages": "101"
+  },
+  {
+   "year": 2016,
+   "title_html": "New technologies in drug metabolism and toxicity screening: organ-to-organ interaction",
+   "link": "https://doi.org/10.1517/17425255.2016.1162292",
+   "authors": "Bhushan A, Martucci NJ, Usta OB, Yarmush ML",
+   "venue": "Expert Opinion on Drug Metabolism & Toxicology",
+   "details": "12(5): 475–477",
+   "doi": "10.1517/17425255.2016.1162292",
+   "volume": "12",
+   "issue": "5",
+   "pages": "475-477"
+  },
+  {
+   "year": 2015,
+   "title_html": "Layer-by-layer Collagen Deposition in Microfluidic Devices for Microtissue Stabilization",
+   "link": "https://doi.org/10.3791/53078",
+   "authors": "McCarty WJ, Prodanov L, Bale SS, Bhushan A, Jindal R, Yarmush ML, Usta OB",
+   "venue": "Journal of Visualized Experiments",
+   "details": "(103)",
+   "doi": "10.3791/53078",
+   "volume": "",
+   "issue": "103",
+   "pages": ""
+  },
+  {
+   "year": 2015,
+   "title_html": "Long-term maintenance of a microfluidic 3D human liver sinusoid",
+   "link": "https://doi.org/10.1002/bit.25700",
+   "authors": "Prodanov L, Jindal R, Bale SS, Hegde M, McCarty WJ, Golberg I, Bhushan A, Yarmush ML, Usta OB",
+   "venue": "Biotechnology and Bioengineering",
+   "details": "113(1): 241–246",
+   "doi": "10.1002/bit.25700",
+   "volume": "113",
+   "issue": "1",
+   "pages": "241-246"
+  },
+  {
+   "year": 2015,
+   "title_html": "Microengineered cell and tissue systems for drug screening and toxicology applications: Evolution of in-vitro liver technologies",
+   "link": "https://doi.org/10.1142/S2339547815300012",
+   "authors": "Usta OB, McCarty WJ, Bale SS, Jindal R, Hegde M, Bhushan A, Yarmush ML",
+   "venue": "Technology",
+   "details": "3(1): 1–26",
+   "doi": "10.1142/S2339547815300012",
+   "volume": "3",
+   "issue": "1",
+   "pages": "1-26"
+  },
+  {
+   "year": 2014,
+   "title_html": "Long Term Co-culture Strategies for Primary Hepatocytes and Liver Sinusoidal Endothelial Cells",
+   "link": "https://doi.org/10.1089/ten.tec.2014.0152",
+   "authors": "Bale SS, Golberg I, Jindal R, McCarty WJ, Luitje M, Hegde M, Bhushan A, Usta OB, Yarmush ML",
+   "venue": "Tissue Engineering Part C",
+   "details": "",
+   "doi": "10.1089/ten.tec.2014.0152",
+   "volume": "21",
+   "issue": "4",
+   "pages": "413-422"
+  },
+  {
+   "year": 2014,
+   "title_html": "A highly sensitive microsphere-based assay for early detection of Type I diabetes",
+   "link": "https://doi.org/10.1142/S2339547814500174",
+   "authors": "Bale SS, Price G, Casali M, Saeidi N, Bhushan A, Yarmush ML",
+   "venue": "Technology",
+   "details": "",
+   "doi": "10.1142/S2339547814500174",
+   "volume": "2",
+   "issue": "3",
+   "pages": "200-205"
+  },
+  {
+   "year": 2014,
+   "title_html": "Dynamic interplay of flow and collagen stabilizes primary hepatocytes culture in a microfluidic platform",
+   "link": "https://doi.org/10.1039/c4lc00071d",
+   "authors": "Hegde M*, Jindal R*, Bhushan A*, Bale SS, McCarty WJ, Golberg I, Usta OB, Yarmush ML",
+   "venue": "Lab on a Chip",
+   "details": "14(12): 2033–2039. *Equal contribution",
+   "doi": "10.1039/c4lc00071d",
+   "volume": "14",
+   "issue": "12",
+   "pages": "2033-2039"
+  },
+  {
+   "year": 2014,
+   "title_html": "In vitro platforms for evaluating liver toxicity",
+   "link": "https://doi.org/10.1177/1535370214531872",
+   "authors": "Bale SS, Vernetti L, Senutovitch N, Jindal R, Hegde M, Gough A, McCarty WJ, Bakan A, Bhushan A, Shun TY, Golberg I, Debiasio R, Usta BO, Taylor DL, Yarmush ML",
+   "venue": "Experimental Biology and Medicine",
+   "details": "",
+   "doi": "10.1177/1535370214531872",
+   "volume": "239",
+   "issue": "9",
+   "pages": "1180-1191"
+  },
+  {
+   "year": 2014,
+   "title_html": "A novel ultrathin collagen nanolayer assembly for 3-D microtissue engineering: Layer-by-layer collagen deposition for long-term stable microfluidic hepatocyte culture",
+   "link": "https://doi.org/10.1142/S2339547814500083",
+   "authors": "McCarty WJ, Usta OB, Luitje M, Bale SS, Bhushan A, Hegde M, Golberg I, Jindal R, Yarmush ML",
+   "venue": "Technology",
+   "details": "2(1): 67–74",
+   "doi": "10.1142/S2339547814500083",
+   "volume": "2",
+   "issue": "1",
+   "pages": "67-74"
+  },
+  {
+   "year": 2013,
+   "title_html": "Towards a three-dimensional microfluidic liver platform for predicting drug efficacy and toxicity in humans",
+   "link": "https://doi.org/10.1186/scrt377",
+   "authors": "Bhushan A, Senutovitch N, Bale SS, McCarty WJ, Hegde M, Jindal R, Golberg I, Berk Usta O, Yarmush ML, Vernetti L, Gough A, Bakan A, Shun T, Biasio R, Lansing Taylor D",
+   "venue": "Stem Cell Research & Therapy",
+   "details": "4(Suppl 1): S16",
+   "doi": "10.1186/scrt377",
+   "volume": "4",
+   "issue": "S1",
+   "pages": "S16"
+  },
+  {
+   "year": 2012,
+   "title_html": "Microfluidic device for examining directional sensing in dendritic cell chemotaxis",
+   "link": "https://doi.org/10.1142/S1793984411000475",
+   "authors": "Koria P, Bhushan A, Irimia D, Yarmush ML",
+   "venue": "Nano LIFE",
+   "details": "2(2)",
+   "doi": "10.1142/S1793984411000475",
+   "volume": "2",
+   "issue": "2",
+   "pages": "1250011"
+  },
+  {
+   "year": 2011,
+   "title_html": "Microparticles and Microfluidics Merged: Perspectives of Highly Sensitive Diagnostic Detection",
+   "link": "https://doi.org/10.1007/s00604-011-0705-1",
+   "authors": "Konry T, Bale SS, Bhushan A, Shen K, Polyak B",
+   "venue": "Microchimica Acta",
+   "details": "",
+   "doi": "10.1007/s00604-011-0705-1",
+   "volume": "176",
+   "issue": "3-4",
+   "pages": "251-269"
+  },
+  {
+   "year": 2011,
+   "title_html": "National trends in occupational injuries before and after 1992 and predictors of workers' compensation costs",
+   "link": "https://doi.org/10.1177/003335491112600504",
+   "authors": "Bhushan A, Leigh JP",
+   "venue": "Public Health Reports",
+   "details": "126(5): 625–634",
+   "doi": "10.1177/003335491112600504",
+   "volume": "126",
+   "issue": "5",
+   "pages": "625-634"
+  },
+  {
+   "year": 2010,
+   "title_html": "Hybrid integration of injector and detector functions for microchip gas chromatography",
+   "link": "https://doi.org/10.1039/c0an00322k",
+   "authors": "Bhushan A, Yemane D, McDaniel S, Goettert J, Murphy MC, Overton EB",
+   "venue": "Analyst",
+   "details": "135(10): 2730–2736",
+   "doi": "10.1039/c0an00322k",
+   "volume": "135",
+   "issue": "10",
+   "pages": "2730-2736"
+  },
+  {
+   "year": 2010,
+   "title_html": "Chemically Polymerized Polypyrrole for On-Chip Concentration of Volatile Breath Metabolites",
+   "link": "https://doi.org/10.1016/j.snb.2009.09.052",
+   "authors": "Strand N, Bhushan A, Schivo M, Kenyon NJ, Davis CE",
+   "venue": "Sensors and Actuators B: Chemical",
+   "details": "143(2): 516–523",
+   "doi": "10.1016/j.snb.2009.09.052",
+   "volume": "143",
+   "issue": "2",
+   "pages": "516-523"
+  },
+  {
+   "year": 2010,
+   "title_html": "Direct thermal-UV nanoimprint of an iron-containing organometallic hybrid film",
+   "link": "https://doi.org/10.1116/1.3271337",
+   "authors": "Han H, Bhushan A, Yaghmaie F, Davis CE",
+   "venue": "Journal of Vacuum Science & Technology B",
+   "details": "28(1): 78–81",
+   "doi": "10.1116/1.3271337",
+   "volume": "28",
+   "issue": "1",
+   "pages": "78-81"
+  },
+  {
+   "year": 2010,
+   "title_html": "Analysis of early host responses for asymptomatic disease detection and management of specialty crops",
+   "link": "https://doi.org/10.1615/critrevimmunol.v30.i3.50",
+   "authors": "Dandekar AM, Martinelli F, Davis CE, Bhushan A, Zhao W, Fiehn O, Skogerson K, Wohlgemuth G, D'Souza R, Roy S, Reagan RL, Lin D, Cary R, Pardington P, Gupta G",
+   "venue": "Critical Reviews in Immunology",
+   "details": "30(3): 277–289",
+   "doi": "10.1615/critrevimmunol.v30.i3.50",
+   "volume": "30",
+   "issue": "3",
+   "pages": "277-289"
+  },
+  {
+   "year": 2010,
+   "title_html": "Generation of paramagnetic hybrid inorganic/organic thin films",
+   "link": "https://doi.org/10.1002/aoc.1653",
+   "authors": "Bhushan A, Han H, Sutherland A**, Boehme S, Yaghmaie F, Davis CE",
+   "venue": "Applied Organometallic Chemistry",
+   "details": "24(7): 530–532",
+   "doi": "10.1002/aoc.1653",
+   "volume": "24",
+   "issue": "7",
+   "pages": "530-532"
+  },
+  {
+   "year": 2010,
+   "title_html": "Endogenous Levels of Five Fatty Acid Metabolites in Exhaled Breath Condensate to Monitor Asthma by High-Performance Liquid Chromatography: Electrospray Tandem Mass Spectrometry",
+   "link": "https://doi.org/10.1109/jsen.2009.2035736",
+   "authors": "Nording ML, Yang J, Hegedus CM, Bhushan A, Kenyon NJ, Davis CE, Hammock BD",
+   "venue": "IEEE Sensors Journal",
+   "details": "10(1): 123–130",
+   "doi": "10.1109/jsen.2009.2035736",
+   "volume": "10",
+   "issue": "1",
+   "pages": "123-130"
+  },
+  {
+   "year": 2009,
+   "title_html": "A Simplified Method to Produce a Functional Test Stamp for Nanoimprint Lithography",
+   "link": "https://doi.org/10.1109/jsen.2008.2011963",
+   "authors": "Yaghmaie F, Nielsen W**, Han H, Bhushan A, Davis CE",
+   "venue": "IEEE Sensors Journal",
+   "details": "9(3): 233",
+   "doi": "10.1109/jsen.2008.2011963",
+   "volume": "9",
+   "issue": "3",
+   "pages": "233-234"
+  },
+  {
+   "year": 2008,
+   "title_html": "Machine Learning: A Crucial Tool for Sensor Design",
+   "link": "https://doi.org/10.3390/a1020130",
+   "authors": "Zhao W, Bhushan A, Santamaria A, Simon MG, Davis CE",
+   "venue": "Algorithms",
+   "details": "1(2): 130–152",
+   "doi": "10.3390/a1020130",
+   "volume": "1",
+   "issue": "2",
+   "pages": "130-152"
+  },
+  {
+   "year": 2008,
+   "title_html": "Temperature changes in exhaled breath condensate collection devices affect observed acetone concentrations",
+   "link": "https://doi.org/10.1088/1752-7155/2/3/037005",
+   "authors": "Loyola BR, Bhushan A, Schivo M, Kenyon NJ, Davis CE",
+   "venue": "Journal of Breath Research",
+   "details": "2(3): 037005",
+   "doi": "10.1088/1752-7155/2/3/037005",
+   "volume": "2",
+   "issue": "3",
+   "pages": "037005"
+  },
+  {
+   "year": 2007,
+   "title_html": "Fabrication of micro-gas chromatograph columns for fast chromatography",
+   "link": "https://doi.org/10.1007/s00542-006-0210-3",
+   "authors": "Bhushan A, Yemane D**, Trudell D, Overton EB, Goettert J",
+   "venue": "Microsystem Technologies",
+   "details": "13: 361–368",
+   "doi": "10.1007/s00542-006-0210-3",
+   "volume": "13",
+   "issue": "3-4",
+   "pages": "361-368"
+  },
+  {
+   "year": 2007,
+   "title_html": "Fabrication and Preliminary Results for LIGA Fabricated Nickel Micro Gas Chromatograph Columns",
+   "link": "https://doi.org/10.1109/jmems.2007.892903",
+   "authors": "Bhushan A, Yemane D**, Overton EB, Goettert J, Murphy MC",
+   "venue": "Journal of Microelectromechanical Systems",
+   "details": "16(2): 383–393",
+   "doi": "10.1109/jmems.2007.892903",
+   "volume": "16",
+   "issue": "2",
+   "pages": "383-393"
+  },
+  {
+   "year": 2006,
+   "title_html": "Gas chromatography",
+   "link": "https://doi.org/10.1021/ac060638e",
+   "authors": "Eiceman GA, Gardea-Torresdey J, Dorman F, Overton E, Bhushan A, Dharmasena HP",
+   "venue": "Analytical Chemistry",
+   "details": "78(12): 3985–3996",
+   "doi": "10.1021/ac060638e",
+   "volume": "78",
+   "issue": "12",
+   "pages": "3985-3996"
+  },
+  {
+   "year": 2004,
+   "title_html": "Application of Scanning Acoustic Microscopy in Characterizing Metal Micro Gas Chromatograph Columns",
+   "link": "",
+   "authors": "Bhushan A, Challa V, McKeon J, Yemane D**, Overton EB, Murphy MC, Goettert J",
+   "venue": "TMS Letters",
+   "details": "7(1): 145–146",
+   "doi": "",
+   "volume": "7",
+   "issue": "1",
+   "pages": "145-146"
+  }
+ ],
+ "groups": [
+  {
+   "heading": "Research staff",
+   "members": [
+    {
+     "name": "Yixiao Ma",
+     "role": "Research Associate",
+     "bio": "I support the cell and molecular biology aspects of the projects in the Bhushan Lab."
+    }
+   ]
+  },
+  {
+   "heading": "Graduate students",
+   "members": [
+    {
+     "name": "Ishita Dasgupta",
+     "role": "PhD student",
+     "bio": "My graduate research is focused on leveraging microfluidics to establish an organoid model of colorectal cancer."
+    },
+    {
+     "name": "Durga Prasad Rangineni",
+     "role": "Graduate student",
+     "bio": "I am studying how bacteria grow and colonize under different environments."
+    },
+    {
+     "name": "Elena Castro Lafuente",
+     "role": "Graduate student",
+     "bio": "I am a student in a joint program with my university in Spain. I am carrying out research to use additive manufacturing techniques to make microfluidic devices."
+    },
+    {
+     "name": "Alejandro Hidalgo",
+     "role": "Graduate student",
+     "bio": "I earned a BS in Mechanical Engineering from the University of Texas, San Antonio. My graduate research is focused on developing a point-of-care device for periodontitis."
+    },
+    {
+     "name": "Julia Kaczmarek",
+     "role": "MS student",
+     "bio": "I am an MS student building a molecular dynamics model of neurodegenerative disorders."
+    },
+    {
+     "name": "Dhanush Rao Balmuri",
+     "role": "MS student",
+     "bio": "I am an MS student building a CFD model for oxygen transport."
+    }
+   ]
+  },
+  {
+   "heading": "Undergraduate researchers",
+   "members": [
+    {
+     "name": "Hasan Abdelsaid",
+     "role": "Undergraduate researcher",
+     "bio": "I am pursuing the Cell and Tissue Track. I am passionate about biological and physiological systems. My goal is to one day work in cancer therapy."
+    },
+    {
+     "name": "Haarshni Gunalan",
+     "role": "Undergraduate researcher",
+     "bio": "I am learning how to make the next generation of microfluidic devices for organ-on-chips."
+    },
+    {
+     "name": "David Cooper",
+     "role": "Undergraduate researcher",
+     "bio": "I am a senior in Chemistry carrying out research in developing pharmacokinetic models."
+    },
+    {
+     "name": "Nethmi Bopearatchy",
+     "role": "Undergraduate researcher",
+     "bio": "I am a second-year Biomedical Engineering student working with Ishita on development of microfluidic devices for the colon."
+    },
+    {
+     "name": "Katana Jade Taylor",
+     "role": "Undergraduate researcher",
+     "bio": "I am a second-year Biology major working with Yixiao on quantifying bacteria in mixed populations."
+    },
+    {
+     "name": "Saloni Patel",
+     "role": "Undergraduate researcher",
+     "bio": "I am a Biology student researching new methods for quickly quantifying oral bacteria."
+    }
+   ]
+  }
+ ],
+ "pi_prose": "<p>I received my PhD in Mechanical Engineering from Louisiana State University, and postdoctoral training from the University of California, Davis and Massachusetts General Hospital/Harvard Medical School/Shriners Boston. As an NIH K30 scholar at UC Davis, I obtained a second MS in Advanced Clinical Research.</p><p>My lab's research is at the intersection of microfluidics (polymer and metal), cell and molecular biology, and medical devices. I participated in the NSF I-Corps program to assess the market fit of a technology under development in my lab. I teach courses in biofluid mechanics, medical devices and synthetic biology.</p><p>I have been fortunate to receive several awards, including the NIH K99/R00, the NSF CAREER Award and the CMBE Young Innovator Award.</p><p>I am passionate about student success and love to develop out-of-the-box learning opportunities (<a href=\"http://www.thecrimson.com/article/2014/4/21/sustainability-hackathon-first/\">the first Sustainability Hackathon at Harvard</a>) and fun ways of <a href=\"https://youtu.be/Cr_b1ZUAp-g\">communicating science</a>.</p>"
+}
