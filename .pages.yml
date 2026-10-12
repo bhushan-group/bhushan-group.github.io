@@ -1,3 +1,15 @@
+media:
+  - name: news
+    label: News photos
+    input: assets/img/news
+    output: assets/img/news
+    extensions: [jpg, jpeg, png, webp]
+  - name: people
+    label: Headshots
+    input: assets/img/people
+    output: assets/img/people
+    extensions: [jpg, jpeg, png, webp]
+
 content:
   - name: news
     label: Lab news
@@ -6,14 +18,25 @@ content:
     format: json
     list: true
     fields:
+      - name: show
+        label: Show on website
+        type: boolean
+        default: false
       - name: date
         label: Date
         type: string
         required: true
-        description: "2026-09-24, or 2026-09 when the exact day doesn't matter"
+        description: "2026-09-24, or 2026-09 when the exact day doesn't matter, or 2026"
         pattern:
           regex: "^\\d{4}(-\\d{2}(-\\d{2})?)?$"
           message: "Use the form 2026-09-24, 2026-09 or 2026"
+      - name: category
+        label: Type
+        type: select
+        required: true
+        description: Sets the colour and icon on the site.
+        options:
+          values: [Paper, Talk, Award, People, Grant, Event, Media, Lab]
       - name: title
         label: Headline
         type: string
@@ -26,6 +49,16 @@ content:
         description: One or two sentences. Optional.
         options:
           maxlength: 400
+      - name: image
+        label: Photo
+        type: image
+        description: Optional. Landscape works best.
+        options:
+          media: news
+      - name: image_alt
+        label: Photo description
+        type: string
+        description: A few words describing the photo, for screen readers. Only needed with a photo.
       - name: link
         label: Link
         type: string
@@ -34,3 +67,48 @@ content:
         label: Link text
         type: string
         description: For example "Read the paper". Leave blank to show "Read more".
+
+  - name: people
+    label: Lab members
+    type: file
+    path: data/people.json
+    format: json
+    list: true
+    fields:
+      - name: show
+        label: Show on website
+        type: boolean
+        default: true
+      - name: group
+        label: Group
+        type: select
+        required: true
+        options:
+          values: [Research staff, PhD students, "Master's students", Undergraduate researchers, Visiting researchers]
+      - name: name
+        label: Name
+        type: string
+        required: true
+      - name: role
+        label: Role
+        type: string
+      - name: program
+        label: Program
+        type: string
+      - name: bio
+        label: Bio
+        type: text
+      - name: photo
+        label: Headshot
+        type: image
+        options:
+          media: people
+      - name: linkedin
+        label: LinkedIn
+        type: string
+      - name: scholar
+        label: Google Scholar
+        type: string
+      - name: github
+        label: GitHub
+        type: string
