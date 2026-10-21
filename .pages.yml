@@ -48,7 +48,7 @@ content:
         type: text
         description: One or two sentences. Optional.
         options:
-          maxlength: 400
+          maxlength: 20000
       - name: image
         label: Photo
         type: image
