@@ -8,6 +8,9 @@
  * title, and optionally: text, category (Paper, Talk, Award, People, Grant,
  * Event, Media or Lab), image, image_alt, link, link_label,
  * show. Items with "show": false are drafts and are not displayed.
+ * Every item gets an anchor built from its date and headline, such as
+ * news.html#2026-08-six-sure-i-students-spend-the. Homepage cards link to
+ * that anchor on the News page.
  */
 (function () {
   var containers = document.querySelectorAll('[data-news]');
@@ -114,13 +117,33 @@
     return a;
   }
 
+  // Anchor for each item: date plus the first few words of the headline.
+  // Computed over the full list, so the homepage and News page agree.
+  function assignAnchors(items) {
+    var used = {};
+    items.forEach(function (item) {
+      var words = String(item.title).toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .replace(/[^a-z0-9]+/g, ' ').trim().split(' ').slice(0, 6).join('-');
+      var base = String(item.date).slice(0, 10) + (words ? '-' + words : '');
+      var id = base, n = 2;
+      while (used[id]) id = base + '-' + n++;
+      used[id] = true;
+      item._anchor = id;
+    });
+  }
+
   function card(item) {
     var key = category(item);
     var node = el('article', 'news-card cat-' + key);
     node.appendChild(media(item, key));
     var body = el('div', 'news-card-body');
     body.appendChild(meta(item, key));
-    body.appendChild(el('h3', 'news-title', String(item.title)));
+    var h = el('h3', 'news-title');
+    var more = el('a', 'news-card-link', String(item.title));
+    more.href = 'news.html#' + item._anchor;
+    h.appendChild(more);
+    body.appendChild(h);
     if (item.text) body.appendChild(el('p', 'news-text', String(item.text)));
     var a = link(item);
     if (a) body.appendChild(a);
@@ -131,6 +154,8 @@
   function row(item) {
     var key = category(item);
     var node = el('li', 'news-row cat-' + key);
+    node.id = item._anchor;
+    node.tabIndex = -1;
     node.appendChild(glyph(key, 24, 'news-icon'));
     var body = el('div', 'news-body');
     body.appendChild(meta(item, key));
@@ -254,8 +279,21 @@
         : items.length + ' items, newest first';
     }
     draw('');
-    var target = location.hash && document.getElementById(location.hash.slice(1));
-    if (target) target.scrollIntoView();
+    function goToHash() {
+      var id = decodeURIComponent(location.hash.slice(1));
+      var target = id && document.getElementById(id);
+      if (!target && id && !/^news-\d{4}$/.test(id)) {
+        draw('');
+        target = document.getElementById(id);
+      }
+      if (!target) return;
+      list.querySelectorAll('.is-target').forEach(function (n) { n.classList.remove('is-target'); });
+      if (target.classList.contains('news-row')) target.classList.add('is-target');
+      target.scrollIntoView({ block: target.classList.contains('news-row') ? 'center' : 'start' });
+      target.focus({ preventScroll: true });
+    }
+    goToHash();
+    window.addEventListener('hashchange', goToHash);
   }
 
   function render(container, items) {
@@ -287,6 +325,7 @@
       var items = (Array.isArray(data) ? data : [])
         .filter(function (item) { return item && item.date && item.title && item.show !== false; })
         .sort(function (a, b) { return String(b.date).localeCompare(String(a.date)); });
+      assignAnchors(items);
       containers.forEach(function (c) { render(c, items); });
     })
     .catch(function (err) {
