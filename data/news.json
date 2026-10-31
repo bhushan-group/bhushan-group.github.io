@@ -815,5 +815,12 @@
     "text": "Our proposal to the Center for Nanoscale Materials at Argonne National Laboratory has been accepted. The allocation gives the lab access to CNM’s fabrication facilities for novel microfluidic device work.",
     "link": "https://www.anl.gov/cnm",
     "link_label": "About CNM"
+  },
+  {
+    "show": true,
+    "date": "2026-08",
+    "category": "People",
+    "title": "Six SURE-I students spend the summer in the lab",
+    "text": "Six undergraduates spent the summer in the lab through Illinois Tech's Summer Undergraduate Research Experience (SURE-I) program: Sidra Siddiqui, Rahul Kumar, Tanish Ranjan, Obed Aparicio, Juan Diego Aranda Hernandez and Fernando Li. They came from BIT Mesra, Universidad Especializada de Las Américas, Universidad Católica Santa María La Antigua and Universidad Tecnológica de Panamá.\n\nTheir projects spanned:\n• Experimental microfluidics\n• Mapping the bai operon across the human gut microbiome\n• Identifying human genes responsive to secondary bile acids\n• Physics-informed neural network design\n"
   }
 ]
